@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   stories:
     output: true
-    permalink: /:collection/:name.html
+    permalink: /:collection/:name
 
 
 # Build settings
