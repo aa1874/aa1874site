@@ -31,7 +31,6 @@ collections:
 markdown: kramdown
 plugins:
    - jekyll-feed
-   - jekyll-admin
    - jekyll-sitemap
 show_excerpts: yes
 permalink: /blog/:categories/:year/:month/:title:output_ext
