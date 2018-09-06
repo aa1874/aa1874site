@@ -1,4 +1,5 @@
 ---
+layout: story
 title: testing file
 ---
 
