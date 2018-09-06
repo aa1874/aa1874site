@@ -20,9 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site for sf fan and extraterrestrial researcher AudioAnimatronic1874
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# destination: "../aa1874.github.io"
+
+collections:
+- stories
 
 
 # Build settings
