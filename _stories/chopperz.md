@@ -5,10 +5,10 @@ headline: A letter from the future!
 ---
 [Originally posted on Wattpad](https://www.wattpad.com/630186370-jeketipunk-chopperz)
 
-To Faris
-Jalan Lembang 1
-Menteng
-Jakarta Pusat 10310
+To Faris<br>
+Jalan Lembang 1<br>
+Menteng<br>
+Jakarta Pusat 10310<br>
 
 Oh, hi! How are you back there? I've just managed to test my own time machine—I successfully travelled to 2135 CE!
 
@@ -24,10 +24,10 @@ Ok. I must end this letter here. The movers are here and they will move my furni
 
 Oh if you want to reply, send your reply to my house at your time. My housekeeper is ready to send your letter to the future.
 
-Oh, if you're curious, here's my new address:
-Drni
-3-5-8
-Jeketion 355-94
+Oh, if you're curious, here's my new address:<br>
+Drni<br>
+3-5-8<br>
+Jeketion 355-94<br>
 
 I'll wait for your reply. See you later!
 
