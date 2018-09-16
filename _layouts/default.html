@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{%-if page.title-%}{{ page.title }} -- {%-endif-%}{{ site.title }}</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+        <nav class="navbar sticky-top navbar-expand-lg navbar-light" style="background-color: #25ff04;">
+            <div class="container">
+                <a class="navbar-brand" href="/">AudioAnimatronic1874</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/stories">Stories</a></li>
+                    </ul>
+                    <form action="https://duckduckgo.com/?q=site:aa1874.github.io+&kp=-1&kl=us-en" class="form-inline my-2 my-lg-0 float-right">
+                        <input type="search" name="text" id="qsearch" class="form-control mr-sm-2" placeholder="Search site using DuckDuckGo">
+                        <input type="hidden" name="q" id="searchresult">
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <main class="container" style="padding-top: 10px;">
+            {{ content }}
+        </main>
+        <hr>
+        <footer class="container">
+            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br>
+            <p><small>This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. // Powered by <a href="http://netlify.com">Netlify</a><br>
+            If you link to this page, please use this URL: <a href="{{ page.url }}">https://aa1874.netlify.com{{ page.url }}</a></small></p>
+        </footer>
+        <script src="https://code.jquery.com/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function(){
+                $("#qsearch").keyup(function(){
+                    var oriq = $("input#qsearch").val();
+                    var resultq = oriq + " site:https://aa1874.netlify.com";
+                    $("#searchresult").val(resultq);
+                });
+                $("img").addClass("img-fluid");
+            });
+        </script>
+    </body>
+</html>
