@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/aa1874/aa1874.github.io" }
+git_source(:github) {|repo_name| "https://github.com/aa1874/aa1874site" }
 
 gem "jekyll"
 
