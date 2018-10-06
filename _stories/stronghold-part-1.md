@@ -63,8 +63,8 @@ They've had a little racing game to the structure in which YarrKynn won. As they
 
 **BEGAN EXCERPT OF LOG**
 
-**RYSHUN KASSH
-AUDORN
+**RYSHUN KASSH<br>
+AUDORN<br>
 PE340.02.34**
 
 Or is it on an ancient language?
