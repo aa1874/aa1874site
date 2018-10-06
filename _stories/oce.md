@@ -1,7 +1,7 @@
 ---
 layout: story
 title: Oce
-description: A poem about near future Jakarta politics.
+headline: A poem about near future Jakarta politics.
 ---
 
 *jakarta 2021.04.01*
