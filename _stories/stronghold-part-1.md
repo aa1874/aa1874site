@@ -61,9 +61,9 @@ They've had a little racing game to the structure in which YarrKynn won. As they
 
 ===
 
-**BEGAN EXCERPT OF LOG
+**BEGAN EXCERPT OF LOG**
 
-RYSHUN KASSH
+**RYSHUN KASSH
 AUDORN
 PE340.02.34**
 
