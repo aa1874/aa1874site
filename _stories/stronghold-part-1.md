@@ -7,7 +7,7 @@ headline: Part 1 of a new story on my Wattpad, reposted bere for convenience of 
 
 *This story is set on the Chouverse, a public domain shared universe.*
 
-It has been centuries after the part-carbon, part-silicon race which inhabited the planet Dyrnik, known as one of the most intelligent and most advanced in the Furkin star system, established their latest colony. During one half of those centuries the Dyrnikian population has increased steadily until they finally developed a perfect cloning system, a soft singularity in which the population began to rocket in a steady acceleration rate thanks to its ever-increasing use. The colonies couldn't accomodate the ever-increasing population anymore.
+It has been centuries after the part-carbon, part-silicon race which inhabited the planet Dyrnik, known as one of the most intelligent and most advanced in the Furkin star system, established their latest colony. During one half of those centuries the Dyrnikian population has increased steadily until they finally developed a perfect cloning system, It's just a part of a bigger technological singularity—the population began to rocket in a steady acceleration rate thanks to its ever-increasing use. The colonies couldn't accomodate the ever-increasing population anymore.
 
 The Central Council of the Dyrnikian Commonwealth knew about this problem. They wanted to tackle it. They have 2 options on the table: perform population control, or restart the colonisation programme. After many meetings and a referendum in which all the citizens of the Commonwealth participated, they decided and passed a bill to allow another colonisation programme to start, which established the Terraform and Colonisation Council.
 
