@@ -7,3 +7,28 @@ layout: page
     <p class="lead">I'm AudioAnimatronic1874, an sf fan and ET researcher from Jakarta.</p>
 </div>
 <div class="alert alert-info" role="alert"><b>Pemberitahuan:</b> Semua karya literasi saya di SMA 68, bisa diakses <a href="/blog">disini untuk nonfiksi</a> dan <a href="/stories">disini untuk karya fiksi</a>.</div>
+<hr>
+<div class="row">
+    <div class="col-md-9">
+        {%- if site.posts.size > 0 -%}
+            <h1 class="display-4">{{ page.list_title | default: "Blog" }}</h1>
+            <p class="lead">Includes nonfiction work I wrote for the compulsory literacy awareness program at my school. // Termasuk karya nonfiksi yang saya tulis dalam bagian Gerakan Literasi SMA Negeri 68 Jakarta.</p>
+            {%- for post in site.posts -%}
+                {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <h3>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h3>
+                {%- if site.show_excerpts -%}
+                    {{ post.excerpt }}
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+    </div>
+    <div class="col-md-3">
+        <div class="d-md-none"><hr></div>
+        
+    </div>
+</div>
