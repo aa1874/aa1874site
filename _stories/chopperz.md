@@ -1,9 +1,11 @@
 ---
 layout: story
-title: CHOPPERZ
-headline: A letter from the future!
+title: CHOPPERZ and OCE
+headline: My first two published works of fiction. These form the Jakarta Duology.
 ---
-[Originally posted on Wattpad](https://www.wattpad.com/630186370-jeketipunk-chopperz)
+Originally posted on Wattpad.
+
+### CHOPPERZ
 
 To Faris<br>
 Jalan Lembang 1<br>
@@ -32,3 +34,37 @@ Jeketion 355-94<br>
 I'll wait for your reply. See you later!
 
 Yours, Drni
+
+<hr>
+
+### Oce
+
+*jakarta 2021.04.01*
+
+Nevermind that this city kinda sucks.
+Yeah, this city has went downhill
+since those pro-business people went to power.
+
+They are really friendly to extremists here.
+Those extremists smoothen their way to power
+by threatening people.
+
+----
+
+Instead of developments, we got memes.
+Corruptions.
+Lies.
+
+They went to power to
+make themselves even richer.
+
+Criminals have ruled this city for years
+and should we take it over from them?
+
+----
+
+Ah, I don't know.
+I just don't want anyone to be angry
+'cuz they are power vampires.
+
+I only hope that the elections next year are peaceful.
