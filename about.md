@@ -11,3 +11,5 @@ For those who don't know, Hi! My real name is **Gibran Alfaro**. But I like to b
 I grew with science fiction. I still remember that time when I watched *Earth vs. the Flying Saucers* (yes! [that B-movie!!](https://www.imdb.com/title/tt0049169/)) and it blown up my mind. Those awesome power armours. Those awesome spacecrafts. It began my eventual diving on the scifi 'verse.
 
 <p class="lead">With my "craft", I found weird stuff. Awesome stuff. Civilizations that's eons ahead... and eons behind.</p>
+
+But until recently, I haven't dive the scifi lit verse yet. It was a short story, [*The Monster* by AE van Vogt](https://drive.google.com/open?id=1DOQEQsp3FNBey-qcR9CJ7ULXr7BVz_yN0RNTwrNBmpQ) which compelled me to read more.
