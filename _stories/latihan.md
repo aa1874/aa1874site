@@ -1,7 +1,7 @@
 ---
 layout: story
 title: Latihan
-headline: Cerpen tantang militerisme dan patriotisme
+headline: Cerpen tentang militerisme dan patriotisme
 ---
 
 *This story is in Indonesian as this was meant for a school competition.*
