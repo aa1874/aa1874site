@@ -1,1 +1,1 @@
-"my site." 
+Source code for the official site of sci-fi writer, enthusiast, and transport and architecture fan [AudioAnimatronic1874](https://aa1874.netlify.com).
