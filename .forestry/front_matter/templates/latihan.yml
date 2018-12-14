@@ -1,0 +1,20 @@
+---
+label: Latihan
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: headline
+  label: Headline
+  type: textarea
+  hidden: false
+  default: ''
