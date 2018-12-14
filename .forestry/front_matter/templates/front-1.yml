@@ -13,8 +13,15 @@ fields:
     - story
     required: true
   label: Post Layout
+  default: post
 - type: text
   name: title
   label: Page/Post Title
   config:
     required: true
+- type: text
+  name: headline
+  label: Headline (story only)
+- type: text
+  name: permalink
+  label: Permalink (if needed)
