@@ -1,0 +1,20 @@
+---
+label: Front 1
+hide_body: false
+is_partial: false
+fields:
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    - story
+    required: true
+  label: Post Layout
+- type: text
+  name: title
+  label: Page/Post Title
+  config:
+    required: true
