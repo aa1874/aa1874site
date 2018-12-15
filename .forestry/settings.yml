@@ -15,6 +15,11 @@ sections:
   label: Stories
   create: all
   match: "**/*"
+- type: directory
+  path: _literasi68
+  label: 68 Literacy Programme Articles
+  create: documents
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
