@@ -1,5 +1,7 @@
 ---
 layout: page
+pagination: 
+  enabled: true
 ---
 
 <div class="jumbotron">
@@ -11,7 +13,7 @@ layout: page
 <hr>
 <div class="row">
     <div class="col-md-9">
-        {%- if site.posts.size > 0 -%}
+        <!--{%- if site.posts.size > 0 -%}
             {%- for post in site.posts -%}
                 {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
                 <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -24,7 +26,29 @@ layout: page
                     {{ post.excerpt }}
                 {%- endif -%}
             {%- endfor -%}
-        {%- endif -%}
+        {%- endif -%}-->
+
+        {% for post in paginator.posts %}
+            {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+            <span class="post-meta text-muted"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+            <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </h3>
+        {% endfor %}
+  
+        <!-- 
+            Showing buttons to move to the next and to the previous list of posts (pager buttons).
+        -->
+        {% if paginator.total_pages > 1 %}
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+            {% endif %}
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
+            {% endif %}
+        {% endif %}
     </div>
     <div class="col-md-3">
         <div class="d-md-none"><hr></div>

@@ -39,6 +39,15 @@ plugins:
 show_excerpts: yes
 permalink: /blog/:categories/:year/:month/:title:output_ext
 
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/blog/page/:num/'
+  title_suffix: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
