@@ -11,7 +11,7 @@ permalink: /literasi/
             <h1 class="display-4">{{ page.list_title | default: "Stories" }}</h1>
             {%- for article in site.literasi68 -%}
                 <h3>
-                    <a class="post-link" href="{{ story.url | relative_url }}">
+                    <a class="post-link" href="{{ article.url | relative_url }}">
                         {{ article.title | escape }}
                     </a>
                 </h3>
