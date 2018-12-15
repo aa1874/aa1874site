@@ -7,7 +7,7 @@ permalink: /literasi/
 
 <div class="row">
     <div class="col-md-9">
-        {%- if site.stories.size > 0 -%}
+        {%- if site.literasi68.size > 0 -%}
             <h1 class="display-4">{{ page.list_title | default: "Stories" }}</h1>
             {%- for article in site.literasi68 -%}
                 <h3>
@@ -15,7 +15,6 @@ permalink: /literasi/
                         {{ article.title | escape }}
                     </a>
                 </h3>
-                {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
                 {%- if article.layout == "post" -%}
                     <p><span class="badge badge-secondary">Artikel</span></p>
                 {%- endif -%}

@@ -12,8 +12,6 @@ layout: page
 <div class="row">
     <div class="col-md-9">
         {%- if site.posts.size > 0 -%}
-            <!--<h1 class="display-4">{{ page.list_title | default: "Blog" }}</h1>
-            <p class="lead">Includes nonfiction work I wrote for the compulsory literacy awareness program at my school. // Termasuk karya nonfiksi yang saya tulis dalam bagian Gerakan Literasi SMA Negeri 68 Jakarta.</p>-->
             {%- for post in site.posts -%}
                 {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
                 <span class="post-meta">{{ post.date | date: date_format }}</span>
