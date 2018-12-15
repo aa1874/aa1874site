@@ -4,7 +4,7 @@ title: Latihan
 headline: Cerpen tentang militerisme dan patriotisme
 ---
 
-*This story is in Indonesian as this was meant for a school competition.*
+*Aslinya ini untuk lomba Gebyar bahasa sekolah.*
 
 "Jadi gimana nih?" kata nyokap gue yang minta gue ikutan latihan kemiliteran dasar yang diselenggarakan sekolah dimana gue belajar.
 

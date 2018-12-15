@@ -16,7 +16,9 @@ permalink: /literasi/
                     </a>
                 </h3>
                 {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-                <span class="post-meta">Aslinya diposting {{ post.date | date: date_format }}</span>
+                {%- if article.headline -%}
+                    {{ article.headline }}
+                {%- endif -%}
             {%- endfor -%}
         {%- endif -%}
     </div>
