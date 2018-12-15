@@ -9,7 +9,7 @@ permalink: /stories/
     <div class="col-md-9">
         {%- if site.stories.size > 0 -%}
             <h1 class="display-4">{{ page.list_title | default: "Stories" }}</h1>
-            <p class="lead">Includes fiction work I wrote for the compulsory literacy awareness program at my school. // Termasuk karya fiksi yang saya tulis dalam bagian Gerakan Literasi SMA Negeri 68 Jakarta.</p>
+            <p class="lead">This doesn't include the stories I wrote for my school. To read them <a href="/literasi">click here</a>.</p>
             {%- for story in site.stories -%}
                 <h3>
                     <a class="post-link" href="{{ story.url | relative_url }}">
