@@ -16,10 +16,10 @@ permalink: /literasi/
                     </a>
                 </h3>
                 {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-                {%- if article.layout = post -%}
+                {%- if article.layout == "post" -%}
                     <p><span class="badge badge-secondary">Artikel</span></p>
                 {%- endif -%}
-                {%- if article.layout = story -%}
+                {%- if article.layout == "story" -%}
                     <p><span class="badge badge-secondary">Cerita</span></p>
                 {%- endif -%}
                 {%- if article.headline -%}
