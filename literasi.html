@@ -1,0 +1,28 @@
+---
+layout: page
+title: Artikel literasi 68
+list_title: Artikel dan cerita untuk gerakan literasi sekolah
+permalink: /literasi/
+---
+
+<div class="row">
+    <div class="col-md-9">
+        {%- if site.stories.size > 0 -%}
+            <h1 class="display-4">{{ page.list_title | default: "Stories" }}</h1>
+            {%- for article in site.literasi68 -%}
+                <h3>
+                    <a class="post-link" href="{{ story.url | relative_url }}">
+                        {{ article.title | escape }}
+                    </a>
+                </h3>
+                {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+                <span class="post-meta">Aslinya diposting {{ post.date | date: date_format }}</span>
+            {%- endfor -%}
+        {%- endif -%}
+    </div>
+    <div class="col-md-3">
+        <div class="d-md-none"><hr></div>
+
+        <p>Most of the stories you'll find here are published first on my <a href="http://wattpad.com/aa1874">Wattpad</a>.</p>
+    </div>
+</div>
