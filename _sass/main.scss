@@ -1,4 +1,19 @@
 // custom vars and scss goes before the @import
 
+@import url('https://fonts.googleapis.com/css?family=Electrolize|Saira+Semi+Condensed:400,700&subset=latin-ext');
+
+$native-font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif: "Saira Semi Condensed", $native-font-stack;
+$font-family-title: "Electrolize", $native-font-stack;
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $font-family-title;
+  margin-bottom: $headings-margin-bottom;
+  font-family: $headings-font-family;
+  font-weight: $headings-font-weight;
+  line-height: $headings-line-height;
+  color: $headings-color;
+}
 
 @import "bootstrap";
