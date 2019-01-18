@@ -6,7 +6,7 @@ title: About me
 ---
 # Who am I?
 
-Hi! I'm AudioAnimatronic1874, and I write Plausible Fantasies (aka: science fiction) and Less Plausible Fantasies (aka: just fantasy).
+Hi! I'm AudioAnimatronic1874, and I write Plausible Fantasies (aka: science fiction) and Less Plausible Fantasies (aka: just fantasy), which apparently are set in the same multiverse.
 
 I was born in 1st August 2002 in Jakarta, and I am a high school student.
 
