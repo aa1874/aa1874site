@@ -16,9 +16,11 @@ Place of crime: Lyokk, H43-Ka
 Day of event: The planet's Incorporation Day*
 
 Sequence of events:  
-Scheduled events celebrating the planet's incorporation include a military parade by the ICPS Defence Organ and several events organized by Central Command.
+Scheduled events celebrating the planet's incorporation included a military parade by the ICPS Defence Organ and several events organized by Central Command.
 
-Insurgency began to rise almost at the middle of the Defence Organ Parade. At the time insurgency began to rise the Commander of H43-Ka, \[NAME REDACTED\], was having a speech to the attending Defence Troops and some other native civilians. At that precise time a voice was heard scre
+Insurgency began to rise almost at the middle of the Defence Organ Parade. At the time insurgency began to rise the Commander of H43-Ka, \[NAME REDACTED\], was having a speech to the attending Defence Troops and some other native civilians. At that precise time a voice was heard screaming "Long live Leader Karn!" and immediately someone killed the Commander; most of the Defence Troops immediately commune around him.
+
+We received the command letter a few Vashkiran minutes after the death of the Commander. The command is that we must hunt any form of insurgency in the planet, imprison them and put them in reschooling camps. 
 
 ===
 
