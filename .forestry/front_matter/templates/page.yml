@@ -21,4 +21,5 @@ fields:
   label: Permalink
   description: "/[permalink]/"
 pages:
+- privacy.md
 - about.md
