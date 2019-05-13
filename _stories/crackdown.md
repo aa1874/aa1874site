@@ -20,7 +20,9 @@ Scheduled events celebrating the planet's incorporation included a military para
 
 Insurgency began to rise almost at the middle of the Defence Organ Parade. At the time insurgency began to rise the Commander of H43-Ka, \[NAME REDACTED\], was having a speech to the attending Defence Troops and some other native civilians. At that precise time a voice was heard screaming "Long live Leader Karn!" and immediately someone killed the Commander; most of the Defence Troops immediately commune around him.
 
-We received the command letter a few Vashkiran minutes after the death of the Commander. The command is that we must hunt any form of insurgency in the planet, imprison them and put them in reschooling camps. 
+We received the command letter a few Vashkiran minutes after the death of the Commander. The command is that we must hunt any form of insurgency in the planet, imprison them and put them in reschooling camps.
+
+Battalions dispatched to H43-Ka are the 3rd and 4th Battalions, totalling 370 troops.
 
 ===
 
