@@ -22,7 +22,7 @@ Insurgency began to rise almost at the middle of the Defence Organ Parade. At th
 
 We received the command letter a few Vashkiran minutes after the death of the Commander. The command is that we must hunt any form of insurgency in the planet, imprison them and put them in reschooling camps.
 
-Battalions dispatched to H43-Ka are the 1st and 2nd Battalions, totalling 370 troops. These battalions form the entirety of our Insurgency Eradication Team.
+Battalions dispatched to H43-Ka are the \[REDACTED\] Battalions, totalling \[REDACTED\] troops. These battalions form the entirety of our Insurgency Eradication Team.
 
 ===
 
