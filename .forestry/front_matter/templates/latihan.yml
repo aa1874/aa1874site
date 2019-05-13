@@ -10,6 +10,12 @@ fields:
   description: Must be "story"
   config:
     required: true
+- name: series
+  type: text
+  config:
+    required: false
+  label: Series
+  description: From which series is this story from?
 - name: title
   label: Title
   type: text
