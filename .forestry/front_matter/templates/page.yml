@@ -20,3 +20,5 @@ fields:
     required: false
   label: Permalink
   description: "/[permalink]/"
+pages:
+- about.md
