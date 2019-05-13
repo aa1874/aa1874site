@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Crackdown!
+title: 'Crackdown!: Report'
 headline: Insurgency movement in H43-Ka! Could the Riot Police neutralize them?
 series: Vashkirx/ICPS Sequence
 published: false
@@ -22,7 +22,9 @@ Insurgency began to rise almost at the middle of the Defence Organ Parade. At th
 
 We received the command letter a few Vashkiran minutes after the death of the Commander. The command is that we must hunt any form of insurgency in the planet, imprison them and put them in reschooling camps.
 
-Battalions dispatched to H43-Ka are the \[REDACTED\] Battalions, totalling \[REDACTED\] troops. These battalions form the entirety of our Insurgency Eradication Team.
+Battalions dispatched to H43-Ka are the \[REDACTED\] Battalions, totalling \[REDACTED\] clone soldiers. These battalions form the entirety of our Insurgency Eradication Team.
+
+Upon arrival, we told the team to split up and turn on their 
 
 ===
 
