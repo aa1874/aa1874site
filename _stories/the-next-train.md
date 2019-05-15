@@ -5,7 +5,8 @@ title: The Next Train...
 headline: ''
 
 ---
-_Stop Press--this is a representation of my fetish on station announcers..._
+_Stop Press--this is a representation of my fetish on station announcers...  
+also this is a backup from my Wattpad_
 
 **_A montage in the platform level of Syklis Station in the F-Rails interstellar railway system_**
 
