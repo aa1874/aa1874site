@@ -9,7 +9,6 @@ permalink: /stories/
     <div class="col-md-9">
         {%- if site.stories.size > 0 -%}
             <h1 class="display-4">{{ page.list_title | default: "Stories" }}</h1>
-            <p class="lead">This doesn't include the stories I wrote for my school. To read them <a href="/literasi">click here</a>.</p>
             {%- for story in site.stories -%}
                 <h3>
                     <a class="post-link" href="{{ story.url | relative_url }}">
@@ -26,5 +25,6 @@ permalink: /stories/
         <div class="d-md-none"><hr></div>
         <p><a href="https://www.wattpad.com/user/aa1874">Wattpad mirror</a></p>
         <p>I rarely use Wattpad but I leave it here anyway.</p>
+        <p>This section doesn't include most stories I wrote for my school (in Indonesian). To read them <a href="/literasi">click here</a>.</p>
     </div>
 </div>
