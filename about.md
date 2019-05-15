@@ -6,7 +6,7 @@ title: About me
 ---
 # Who am I?
 
-Hi! I'm AudioAnimatronic1874, and I write Plausible Fantasies (aka: science fiction) and Less Plausible Fantasies (aka: just fantasy), which apparently are set in the same multiverse.
+Hi! I’m AudioAnimatronic1874, and I write Plausible Fantasies (aka: science fiction) and Less Plausible Fantasies (aka: just fantasy), which apparently are set in the same multiverse.
 
 I was born in 1st August 2002 in Jakarta, and I am a high school student.
 
@@ -14,4 +14,4 @@ I grew with science fiction. I still remember that time when I watched _Earth vs
 
 <p class="lead">With my "craft", I found weird stuff. Awesome stuff. Civilizations that's eons ahead... and eons behind.</p>
 
-But until recently, I haven't dive the scifi lit verse yet. It was a short story, [_The Monster_ by AE van Vogt](https://docs.google.com/document/d/1DOQEQsp3FNBey-qcR9CJ7ULXr7BVz_yN0RNTwrNBmpQ/edit?usp=sharing) which compelled me to read more.
+But until recently, I haven't dive the scifi lit verse yet. It was a short story, [he Monster" by AE van Vogt](https://drive.google.com/file/d/1GZioay51Dl0HbnZP4pG6ZlATT1N3LL1V/view?usp=drivesdk) which compelled me to read more.
