@@ -5,6 +5,8 @@ title: Why Exterminating?
 headline: ''
 
 ---
+_Backup from my Wattpad._
+
 _BACKGROUND NOTE:_  
 _In 325 DE a civilization of the Dersk Council began re-arming radically. A news reporter captured the scenes of the mass re-arming and posted it on newspapers and "networks", creating a buzz all around the Council member countries._
 
