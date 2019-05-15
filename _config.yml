@@ -28,6 +28,9 @@ collections:
   literasi68:
     output: true
     permalink: /:collection/:name.html
+  chouverse:
+    output: true
+    permalink: /:collection/:name.html
 
 
 # Build settings
