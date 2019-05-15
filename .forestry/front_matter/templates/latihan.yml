@@ -29,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _stories/the-next-train.md
 - _stories/why-exterminating.md
 - _stories/crackdown.md
