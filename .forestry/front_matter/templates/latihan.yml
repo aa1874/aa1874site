@@ -29,4 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _stories/why-exterminating.md
 - _stories/crackdown.md
