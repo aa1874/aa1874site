@@ -21,7 +21,7 @@ I still remember parts of the first book. It told me that:
 * Spider-Man can't shoot webs
 * Superman can't fly
 * Night vision would hurt ppl
-* Cryostasis and cryochambers are impossible
+* [Hypersleep chambers](https://avp.fandom.com/wiki/Hypersleep_chamber) are impossible
 * Lightsabers are impossible
 * **Captain Harlock is antagonist in _Galaxy Express 999_ (!!!) Do they crossover in one part?** I still remember one section saying that "the Arcadia (Captain Harlock's ship) is, in _Galaxy Express 999_, the Big Bad"
 
