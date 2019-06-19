@@ -8,9 +8,8 @@ $headings-font-family: "Electrolize", $native-font-stack;
 $black: #111;
 $enable-responsive-font-sizes: true;
 $white: #fff;
-$link-color: $black;
 
-.chouverse-content, .chouverse-content .container {
+.chouverse-content {
     background-color: $black;
     color: $white;
     $link-color: $white;
