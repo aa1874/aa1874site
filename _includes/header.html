@@ -8,8 +8,18 @@
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="/stories">Stories</a></li>
-                <li class="nav-item"><a href="/literasi" class="nav-link">Literasi sekolah (id)</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="storiesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Fiction
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="storiesDropdown">
+                        <a class="dropdown-item" href="/stories">Stories</a>
+                        <a class="dropdown-item" href="/literasi" >Literasi sekolah (id)</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item disabled" href="#">soon: book anthologies?</a>
+                    </div>
+                </li>
+                
                 <li class="nav-item"><a class="nav-link" href="/chouverse">Chouverse</a></li>
             </ul>
             <form action="https://duckduckgo.com/?q=site:aa1874.github.io+&kp=-1&kl=us-en" class="form-inline my-2 my-lg-0 float-right">
