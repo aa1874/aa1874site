@@ -7,9 +7,8 @@ $font-family-sans-serif: "Saira Semi Condensed", $native-font-stack;
 $headings-font-family: "Electrolize", $native-font-stack;
 $black: #111;
 
+@import "bootstrap";
+
 .chouverse-content {
     background-color: $black;
     color: $white;
-}
-
-@import "bootstrap";
