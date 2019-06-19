@@ -10,7 +10,7 @@ $enable-responsive-font-sizes: true;
 
 @import "bootstrap";
 
-.chouverse-content {
+.chouverse-content, .chouverse-content .container {
     background-color: $black;
     color: $white;
     $link-color: $white;
