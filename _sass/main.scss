@@ -6,6 +6,7 @@ $native-font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helv
 $font-family-sans-serif: "Saira Semi Condensed", $native-font-stack;
 $headings-font-family: "Electrolize", $native-font-stack;
 $black: #111;
+$enable-responsive-font-sizes: true;
 
 @import "bootstrap";
 
