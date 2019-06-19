@@ -7,11 +7,15 @@ $font-family-sans-serif: "Saira Semi Condensed", $native-font-stack;
 $headings-font-family: "Electrolize", $native-font-stack;
 $black: #111;
 $enable-responsive-font-sizes: true;
+$white: #fff;
+
+.chouverse-content, .chouverse-content .container {
+    $link-color: $white;
+}
 
 @import "bootstrap";
 
 .chouverse-content, .chouverse-content .container {
     background-color: $black;
     color: $white;
-    $link-color: $white;
 }
