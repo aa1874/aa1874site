@@ -5,13 +5,17 @@
 $native-font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-sans-serif: "Saira Semi Condensed", $native-font-stack;
 $headings-font-family: "Electrolize", $native-font-stack;
-$black: #111;
+
 $enable-responsive-font-sizes: true;
+
+$black: #111;
 $white: #fff;
-$cyan:  #17a2b8;
-$body-color:                   $white;
-$body-bg:                $gray-900;
+$cyan:  #00f7ff;
+
+$body-color: $white;
+$body-bg: $gray-900;
 $link-color: $cyan;
+$border-color: $cyan;
 
 .chouverse-content {
     background-color: $black;
