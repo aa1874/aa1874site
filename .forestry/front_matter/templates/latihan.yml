@@ -29,7 +29,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _stories/why-exterminating.md
-- _stories/denshun.md
 - _stories/the-next-train.md
+- _stories/denshun.md
+- _stories/why-exterminating.md
 - _stories/crackdown.md
