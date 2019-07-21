@@ -29,7 +29,7 @@ The blurb (with edits by me):
 
 When human activity was once limited to one planet, the Earth, there were four easy time divisions. It is that of ancient times, medieval times, modern times, and modern times, and there were times when modern times were added to this.
 
-On top of this basic division, special situations in each area will be added. In art history, science and technology history, literary history, economic history, etc., time division often produces a general time division and a gap. The gigantic imperial grave also has no effect on the art and ideas of making sculptures.
+On top of this basic division, special situations in each area are added. In art history, science and technology history, literary history, economic history, etc., time division often produces a general time division and a gap. The gigantic imperial grave also has no effect on the art and ideas of making sculptures.
 
 If this is compared with military history, it can be seen that the biggest turning point was the use of explosives. However, in terms of changes in military thought, there was also a cynical view that there had been no change basically since Sun Tzu. In addition, some people saw the division of the era with the complete emergence of the two major tides of military thought, "mechanism and quantity" vs. "attack", but then it became a problem when they first appeared, and it was not easy to see the connection.
 
