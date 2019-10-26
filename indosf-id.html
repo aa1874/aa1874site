@@ -11,7 +11,7 @@ title: Fiksi ilmiah di Indonesia
     {%- for indosf in site.indosfid -%}
         <h3>
             <a class="post-link" href="{%- if indosf.redir -%}{{ indosf.redir }}{%- else -%}{{ indosf.url | relative_url }}{%- endif -%}">
-                {{ indosf.title | escape }}
+                {{ indosf.title | escape }} {%- if indosf.redir -%}<i class="fas fa-external-link-square-alt"></i>{%- endif -%}
             </a>
         </h3>
         {%- if indosf.headline -%}
