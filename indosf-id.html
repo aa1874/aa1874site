@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: /indosf/id/
+title: Fiksi ilmiah di Indonesia
+---
+
+<h2>Fiksi ilmiah di Indonesia itu langka.</h2>
+<p class="lead">Disini akan saya agregasi dari sumber manapun perkembangan fiksi ilmiah di Indonesia.</p>
+
+{%- if site.indosfid.size > 0 -%}
+    {%- for indosf in site.indosfid -%}
+        <h3>
+            <a class="post-link" href="{%- if indosf.redir -%}{{ indosf.redir }}{%- else -%}{{ indosf.url | relative_url }}{%- endif -%}">
+                {{ indosf.title | escape }}
+            </a>
+        </h3>
+        {%- if indosf.headline -%}
+            <p>{{ indosf.headline }}</p>
+        {%- endif -%}
+        {%- if indosf.source -%}<p><small>{{ indosf.source }}</small></p>{%- endif -%}
+    {%- endfor -%}
+{%- endif -%}

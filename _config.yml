@@ -31,6 +31,9 @@ collections:
   chouverse:
     output: true
     permalink: /:collection/:name.html
+  indosfid:
+    output: true
+    permalink: /indosf/id/:name.html
 
 
 # Build settings
