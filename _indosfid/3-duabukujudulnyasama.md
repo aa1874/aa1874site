@@ -34,7 +34,7 @@ Gw cukup seneng ama novel fik-il komedi ini. 7/10 imo. Tiga bintang hilang karen
 
 > *Ya, karena memang **separuh dari hidup kita adalah ironi, dan separuhnya lagi adalah humor.***
 
-## *Seribu Tahun Cahaya*, [larya Lia Heliana](https://www.goodreads.com/book/show/27316097-seribu-tahun-cahaya)
+## *Seribu Tahun Cahaya*, [karya Lia Heliana](https://www.goodreads.com/book/show/27316097-seribu-tahun-cahaya)
 
 Kalo diatas fik-il komedi, yang ini: fik-il islami. Gak kek fik-il yang ada katolik-katoliknya kek *A Case of Conscience* nya James Blish ato *A Canticle for Leibowitz* nya Walter Miller ("dwitunggal fik-il katolik"), gw *cringe* ama novel ini.
 
@@ -50,3 +50,5 @@ Kalo diatas fik-il komedi, yang ini: fik-il islami. Gak kek fik-il yang ada kato
 - Katanya *Choose Your Own Adventure* tapi kok cuma dua titik pilihnya??
 
 Udah lah, saat gw nulis artikel ini, Perpusnas mau tutup jadinya gw kasih rating novel yang ini: 3/10.
+
+AudioAnimatronic1874 signing off.
