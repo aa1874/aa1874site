@@ -39,7 +39,7 @@ Gw cukup seneng ama novel fik-il komedi ini. 7/10 imo. Tiga bintang hilang karen
 Kalo diatas fik-il komedi, yang ini: fik-il islami. Gak kek fik-il yang ada katolik-katoliknya kek *A Case of Conscience* nya James Blish ato *A Canticle for Leibowitz* nya Walter Miller ("dwitunggal fik-il katolik"), gw *cringe* ama novel ini.
 
 - "ibu-ibu doyan nulis, aktif - kreatif - produktif"
-- **KAPTEN JAMES T. KIRK-NYA *STAR TREK* JADI TOKOH DISINI.** GIMANA GW GAK CRINGE?!!!
+- **KAPTEN JAMES T. KIRK-NYA *STAR TREK* JADI TOKOH DISINI.** GIMANA GW GAK CRINGE?!!! (iirc ada disebut Kapten Kirk sebagai tokoh dalam nopel ini)
 - Ini penulisnya (yang notabene emak-emak (lahir 20 Des 1978)) keknya lagi nostalgila nonton star trek di layar kaca nasional ya. Udah Kirk masuk nopel ini sebagai tokoh, banyak adegan yang nyebut-nyebut Star Trek. weteep.
 
 > *Zee membayangkan begitu hebat imajinasi Gene Roddenberry, sang pencipta* Star Trek, *karena ia bisa membuat berbagai cerita menakjubkan tentang penjelajahan makhluk-makhluk cerdas dari berbagai galaksi dengan wahana federasi, dilengkapi berbagai teknologi fiktif masa depan.*<br>
