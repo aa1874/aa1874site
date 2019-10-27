@@ -52,3 +52,5 @@ Kalo diatas fik-il komedi, yang ini: fik-il islami. Gak kek fik-il yang ada kato
 Udah lah, saat gw nulis artikel ini, Perpusnas mau tutup jadinya gw kasih rating novel yang ini: 3/10.
 
 AudioAnimatronic1874 signing off.
+
+**NEXT (maybe):** Gw bakal review pameran temporer GalNas: *Instrumenta #2*.
