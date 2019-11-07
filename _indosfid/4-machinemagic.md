@@ -27,7 +27,9 @@ layout: page
     <div class="col-sm-9">
         <p>2 November 2019, gw akhirnya ke Galeri Nasional Indonesia buat ngeliat eksibisi *Instrumenta #2: Machine/Magic* yang gw pernah link di miniblog ini (link di kiri)</p>
 
-        <p>Jadi, disini ada </p>
+        <p>Jadi, disini ada konten dari dalam dan luar negeri. Yang paling gw suka itu adalah yang di bagian BIRO PENDETEKSIAN LUAR NALAR:</p>
+
+        <p>![](https://i.postimg.cc/mkG1JNFg/IMG-1405.jpg)</p>
     </div>
 </div>
 
