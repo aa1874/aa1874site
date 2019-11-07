@@ -26,6 +26,8 @@ layout: page
     </div>
     <div class="col-sm-9">
         2 November 2019, gw akhirnya ke Galeri Nasional Indonesia buat ngeliat eksibisi *Instrumenta #2: Machine/Magic* yang gw pernah link di miniblog ini (link di kiri)
+
+        Jadi, disini ada 
     </div>
 </div>
 
