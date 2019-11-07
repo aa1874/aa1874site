@@ -15,7 +15,7 @@ layout: page
 
 <div class="row">
     <div class="col-sm-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card">
             <img src="https://asset.kompas.com/crops/joSDldZo5TgO6MiIdotZv26EIpk=/0x0:1040x693/780x390/filters:watermark(data/photo/2019/08/13/5d528b8341764.png,0,-0,1)/data/photo/2019/10/24/5db1b9da0e55b.jpeg" class="card-img-top" alt="Gambar">
             <div class="card-body">
                 <h5 class="card-title">"Instrumenta 2: Machine/Magic": Memadukan Fiksi Ilmiah dan Seni Media</h5>
@@ -25,7 +25,7 @@ layout: page
         </div>
     </div>
     <div class="col-sm-9">
-        2 November 2019, gw akhirnya ke Galeri Nasional Indonesia buat ngeliat eksibisi *Instrumenta #2: Machine/Magic* yang gw pernah link di miniblog ini (link di kiri).
+        2 November 2019, gw akhirnya ke Galeri Nasional Indonesia buat ngeliat eksibisi *Instrumenta #2: Machine/Magic* yang gw pernah link di miniblog ini (link di kiri)
     </div>
 </div>
 
