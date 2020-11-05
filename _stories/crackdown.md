@@ -2,7 +2,7 @@
 layout: story
 title: 'Crackdown!: Report'
 headline: Insurgency movement in H43-Ka! Could the Riot Police neutralize them?
-series: Vashkirx/ICPS Sequence
+series: OLD Vashkirx/ICPS Sequence
 
 ---
 INTERSTELLAR CO-PROSPERITY SPHERE  

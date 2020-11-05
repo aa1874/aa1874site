@@ -1,6 +1,6 @@
 ---
 layout: story
-series: Chouverse Misc
+series: Misc
 title: The Next Train...
 headline: ''
 

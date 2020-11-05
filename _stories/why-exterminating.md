@@ -1,6 +1,6 @@
 ---
 layout: story
-series: Chouverse Misc
+series: Misc
 title: Why Exterminating?
 headline: ''
 

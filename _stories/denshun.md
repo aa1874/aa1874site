@@ -1,6 +1,6 @@
 ---
 layout: story
-series: Chouverse Misc
+series: Misc
 title: Denshun
 headline: With his friends, Met_53 and RenDicGGG, MyricON_ will prove a legend once
   and for all...

@@ -1,0 +1,46 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "assets/uploads" # Media files will be stored in the repo under assets/uploads
+
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'indosf'
+    label: 'Indonesian SF Musings'
+    folder: '_indosfid/'
+    create: true
+    slug: '{{year}}-{{month}}-{{slug}}'
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "ID", name: "id", widget: "number"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Headline", name: "headline", widget: "string"}
+      - {label: "Redirects to", name: "redir", widget: "string"}
+      - {label: "Publish Location and Date", name: "source", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'stories'
+    label: 'Stories'
+    folder: '_stories/'
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "story"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Headline", name: "headline", widget: "string"}
+      - {label: "Series", name: "series", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
