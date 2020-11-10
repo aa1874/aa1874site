@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _indosfid
+  label: IndoSF
+  create: all
+  match: "**/*"
+  templates:
+  - page
 - type: jekyll-pages
   label: Pages
   create: all
@@ -25,7 +32,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-instant_preview: 
 build:
   preview_env:
   - JEKYLL_ENV=staging
@@ -35,4 +41,3 @@ build:
   mount_path: "/opt/buildhome/repo"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
-  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
