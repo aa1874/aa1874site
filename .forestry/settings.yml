@@ -15,8 +15,6 @@ sections:
   label: IndoSF
   create: all
   match: "**/*"
-  templates:
-  - page
 - type: directory
   path: _stories
   label: Stories
